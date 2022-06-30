@@ -5,7 +5,7 @@ This project is a small 2D game with minilibx. You'll learn about textures, spri
 ![image](https://github.com/kroharu/so_long/blob/main/Screen%20Shot%202022-06-30%20at%2012.15.06%20PM.png)
 
 ## Preview
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/51353146/152325175-0d3510c5-3b9e-47c1-a696-f9528e86f96e.gif)
+![ezgif com-gif-maker](https://github.com/kroharu/so_long/blob/main/6lcdr7.gif)
 
 
 ## How play the game
